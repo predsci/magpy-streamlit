@@ -1,0 +1,11 @@
+2025/11/11 04:00
+  #    AR#   WLSG_10   Lng    Lat                  24 Hour Event Rate          Dist 
+               (KG)   (deg)  (deg)           M&X    CME    FCME    X     SPE   (deg) 
+  1   14279    2.45    -37    -15           0.000  0.010  0.000  0.000  0.000    40  
+  2   14275    3.74     20     3            0.001  0.027  0.001  0.000  0.002    21  
+  3   14274   202.29    25     20           1.233  0.612  0.253  0.238  0.204    32  
+  4   14277   31.38     -9    -16           0.090  0.190  0.028  0.011  0.101    18  
+                       Disk Forecast Rates  1.300  0.839  0.282  0.249  0.307 
+              Multiplicative Uncertainties   1.4x   1.2x   1.9x   5.6x  14.7x 
+     Disk All-Clear Forecast Probabilities  27.00% 43.00% 75.00% 77.00% 73.00%
+                             Uncertainties  11.70% 6.60%  13.80% 35.40% 48.40%
