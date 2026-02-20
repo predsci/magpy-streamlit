@@ -3,8 +3,8 @@ from pathlib import Path
 import streamlit as st
 
 # ---------------- Configuration ----------------
-BASE_PNG = Path("/Users/michal/Dropbox/NAPR13/michal/code/deploy-streamlit-magpy/output_data/forecast_files/forecast_pngs")
-BASE_TXT = Path("/Users/michal/Dropbox/NAPR13/michal/code/deploy-streamlit-magpy/output_data/forecast_files/forecast_text_files")
+BASE_PNG = Path("/Users/michal/Dropbox/NAPR13/michal/code/magpy-streamlit/output_data/forecast_files/forecast_pngs")
+BASE_TXT = Path("/Users/michal/Dropbox/NAPR13/michal/code/magpy-streamlit/output_data/forecast_files/forecast_text_files")
 
 PNG_TYPES = {
     "LOS": "los_forecast_pngs",
